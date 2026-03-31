@@ -2,4 +2,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldo-menezes-93b949380/)
 
 ### 🌐 Analista de Dados | Power BI
-#### Transformando dados em insights
+<p>Transformando ideias em insights</p>
